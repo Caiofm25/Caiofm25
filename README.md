@@ -30,6 +30,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/caiofm25/caiofm25/output/github-contribution-grid-snake-dark.svg" style="clip-path: polygon(0 0, 100% 0, 100% 89%, 0 89%, 0 0)" alt="Snake animation" />
-
+<div style="clip-path: polygon(0 0, 100% 0, 100% 89%, 0 89%, 0 0)" >
+<img src="https://raw.githubusercontent.com/caiofm25/caiofm25/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 ###
