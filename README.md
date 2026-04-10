@@ -37,4 +37,3 @@
 <img src="https://raw.githubusercontent.com/caiofm25/caiofm25/output/snake.svg" alt="Snake animation" />
 
 ###
-###
