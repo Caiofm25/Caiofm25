@@ -34,12 +34,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vaz01&locale=pt-br&mode=daily&theme=merko&hide_border=false&border_radius=30&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vaz01/Vaz01/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vaz01/Vaz01/output/pacman-contribution-graph.svg">
