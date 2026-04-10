@@ -34,6 +34,7 @@
 
 ###
 
-![snake gif](https://github.com/caiofm25/caiofm25/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/caiofm25/caiofm25/output/snake.svg" alt="Snake animation" />
 
+###
 ###
