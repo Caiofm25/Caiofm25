@@ -46,6 +46,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Vaz01/Vaz01/output/pacman-contribution-graph.svg">
 </picture>
 
-![snake-gif](https://github.com/caiofm25/caiofm25/blob/output/github-contribution-grid-snake.svg)
+![snake_animation](https://github.com/caiofm25/caiofm25/blob/output/github-contribution-grid-snake.svg)
 
 ###
