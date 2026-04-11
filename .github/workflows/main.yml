@@ -43,7 +43,7 @@ jobs:
           for file in files {
             svg = open(file).read()
             svg = re.sub(r'<svg[^>]*>', '<svg width=\"880\" height=\"175\" viewBox=\"-16 -32 880 175\" xmlns=\"http://www.w3.org/2000/svg\">', svg, count=1)
-            open('dist/github-contribution-grid-snake-dark.svg', 'w').write(svg)
+            open(file, 'w').write(svg)
             "
           }
       # push the content of <build_dir> to a branch
