@@ -35,10 +35,9 @@ jobs:
           python3 -c "
           import re
           svg = open('dist/github-contribution-grid-snake-dark.svg').read()
-          svg = re.sub(r'<svg[^>]*>', '<svg width=\"880\" height=\"192\" viewBox=\"-16 -32 880 192\" xmlns=\"http://www.w3.org/2000/svg\">', svg, count=1)
+          svg = re.sub(r'<svg[^>]*>', '<svg width=\"880\" height=\"175\" viewBox=\"-16 -32 880 175\" xmlns=\"http://www.w3.org/2000/svg\">', svg, count=1)
           open('dist/github-contribution-grid-snake-dark.svg', 'w').write(svg)
           "
-
           
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
