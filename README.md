@@ -27,6 +27,8 @@
 
 ###
 
-![snake animation](https://github.com/caiofm25/caiofm25/blob/output/github-contribution-grid-snake-dark.svg)
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <image href="https://github.com/caiofm25/caiofm25/blob/output/github-contribution-grid-snake-dark.svg" x="50" y="50" width="100" height="100"/>
+</svg>
 
 ###
