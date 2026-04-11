@@ -30,7 +30,7 @@
 <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="corte-svg">
-      <polygon points="0,0 100%,0 100%,89% 0,0" />
+      <polygon points="0,0 200,0 200,178 0,0" />
     </clipPath>
   </defs>
 
