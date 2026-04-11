@@ -28,7 +28,7 @@
 ###
 
 <svg width="700" height="700" xmlns="http://www.w3.org/2000/svg">
-  <image href="https://raw.githubusercontent.com/Caiofm25/Caiofm25/47cd191fd2a4280b21a105c3b57b6fa9980721af/github-contribution-grid-snake-dark.svg" x="50" y="50" width="700" height="700"/>
+  ![snake animation](https://github.com/caiofm25/caiofm25/blob/output/github-contribution-grid-snake-dark.svg)
 </svg>
 
 ###
