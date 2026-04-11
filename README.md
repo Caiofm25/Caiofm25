@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Desenvolvedor Full Stack.</p>
+<p align="center">Desenvolvedor Full Stack. | Apaixonado por tecnologia</p>
 
 ###
 
