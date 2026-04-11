@@ -27,7 +27,7 @@
 
 ###
 
-<svg width="700" height="700" xmlns="http://www.w3.org/2000/svg">
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   
   ![snake animation](https://github.com/caiofm25/caiofm25/blob/output/github-contribution-grid-snake-dark.svg)
 
