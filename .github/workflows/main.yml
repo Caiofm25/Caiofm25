@@ -36,7 +36,7 @@ jobs:
         run: |
           python3 -c "
           import re, os
-          files = [os.environ['SNAKE_LIGHT'], os.environ['SNAKE_DARK']]          ]
+          files = [os.environ['SNAKE_LIGHT'], os.environ['SNAKE_DARK']]
           for file in files:
             svg = open(file).read()
             svg = re.sub(r'<svg[^>]*>', '<svg width=\"880\" height=\"175\" viewBox=\"-16 -32 880 175\" xmlns=\"http://www.w3.org/2000/svg\">', svg, count=1)
