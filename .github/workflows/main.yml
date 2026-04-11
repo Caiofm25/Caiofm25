@@ -17,7 +17,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+    env:
+      SNAKE_DARK: dist/github-contribution-grid-snake-dark.svg
+      SNAKE_LIGHT: dist/github-contribution-grid-snake.svg
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
@@ -25,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            {{env.SNAKE_LIGHT}}
+            {{env.SNAKE_DARK}}?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -35,8 +37,8 @@ jobs:
           python3 -c "
           import re
           files = [
-          'dist/github-contribution-grid-snake-dark.svg',
-          'dist/github-contribution-grid-snake-dark.svg?palette=github-dark'
+          {{env.SNAKE_LIGHT}},
+          {{env.SNAKE_DARK}}
           ]
           for file in files {
             svg = open(file).read()
