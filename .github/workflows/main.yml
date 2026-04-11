@@ -31,14 +31,14 @@ jobs:
             ${{ env.SNAKE_DARK }}?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          
       - name: Crop SVG
         run: |
           python3 -c "
           import re
           files = [
-          ${{ env.SNAKE_LIGHT }},
-          ${{ env.SNAKE_DARK }}
+            os.environ['SNAKE_LIGHT'],
+            os.environ['SNAKE_DARK']
           ]
           for file in files:
             svg = open(file).read()
