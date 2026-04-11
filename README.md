@@ -37,6 +37,7 @@
   <image 
     href="https://raw.githubusercontent.com/caiofm25/caiofm25/output/github-contribution-grid-snake-dark.svg"
     width=550px
+    height=550px
     clip-path="url(#corte-svg)" 
   />
 </svg>
