@@ -29,14 +29,17 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Crop SVG
         run: |
           python3 -c "
           import re
           svg = open('dist/github-contribution-grid-snake-dark.svg').read()
-          svg = re.sub(r'<svg[^>]*>', '<svg viewBox=\"0 0 800 110\" width="880" height="135" xmlns=\"http://www.w3.org/2000/svg\">', svg, count=1)
+          svg = re.sub(r'<svg[^>]*>', '<svg width=\"800\" height=\"135\" viewBox=\"0 0 800 110\" xmlns=\"http://www.w3.org/2000/svg\">', svg, count=1)
           open('dist/github-contribution-grid-snake-dark.svg', 'w').write(svg)
           "
+
+          
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
