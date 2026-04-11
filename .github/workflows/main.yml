@@ -35,7 +35,7 @@ jobs:
           python3 -c "
           import re
           svg = open('dist/github-contribution-grid-snake-dark.svg').read()
-          svg = re.sub(r'<svg[^>]*>', '<svg width=\"800\" height=\"135\" viewBox=\"0 0 800 110\" xmlns=\"http://www.w3.org/2000/svg\">', svg, count=1)
+          svg = re.sub(r'<svg[^>]*>', '<svg width=\"880\" height=\"192\" viewBox=\"-16 -32 880 192\" xmlns=\"http://www.w3.org/2000/svg\">', svg, count=1)
           open('dist/github-contribution-grid-snake-dark.svg', 'w').write(svg)
           "
 
