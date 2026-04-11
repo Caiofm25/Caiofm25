@@ -10,7 +10,7 @@
   <a href="www.linkedin.com/in/caiofm25" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="[https://wa.me/https://wa.me/5562986207897?text=l%C3%A1!%20Tudo%20bem%2C%20obrigado!%20%F0%9F%91%8B%20Fico%20feliz%20que%20visitou%20meu%20GitHub!%20Se%20tiver%20interesse%20em%20algum%20projeto%2C%20colabora%C3%A7%C3%A3o%20ou%20oportunidade%2C%20pode%20falar%20%C3%A0%20vontade.%20Responderei%20em%20breve!](https://api.whatsapp.com/send/?phone=5521976460349&text=Ol%C3%A1%2C+vim+pelo+seu+GitHub+e+tenho+interesse+em+desenvolver+um+projeto+com+voc%C3%AA&type=phone_number&app_absent=0)" target="_blank">
+  <a href="https://api.whatsapp.com/send/?phone=5521976460349&text=Ol%C3%A1%2C+vim+pelo+seu+GitHub+e+tenho+interesse+em+desenvolver+um+projeto+com+voc%C3%AA&type=phone_number&app_absent=0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
