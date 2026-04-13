@@ -31,8 +31,6 @@
   <img src="https://streak-stats.demolab.com?user=caiofm25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
 <img src="https://github.com/caiofm25/caiofm25/blob/output/github-contribution-grid-snake-dark.svg">
 
 ###
