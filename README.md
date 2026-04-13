@@ -29,7 +29,7 @@
 
 <div align="center" width="40%" >
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=caiofm25&theme=holi-theme&fire=EB5454&ring=EB5454&border=616161&hide_total_contributions=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=caiofm25&theme=holi-theme&fire=EB5454&ring=EB5454&hide_total_contributions=true)](https://git.io/streak-stats)
   
 </div>
 
