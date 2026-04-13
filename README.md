@@ -17,7 +17,7 @@
 
 ###
 
-<div align="center" style="margin-bottom: 60px">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:55px; margin:0 5px" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:55px; margin:0 5px"  alt="css logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="height:55px; margin:0 5px" alt="javascript logo"  />
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:55px; margin:0 5px" alt="mysql logo"  />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 60px">
   <img src="https://streak-stats.demolab.com?user=caiofm25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
