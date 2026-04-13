@@ -27,8 +27,10 @@
 
 ###
 
-<div align="center">
-    <img src="https://streak-stats.demolab.com?user=caiofm25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" width="40%" />
+<div align="center" width="40%" >
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=caiofm25&theme=holi-theme&hide_border=true&fire=EB5454&ring=EB5454&hide_total_contributions=true)](https://git.io/streak-stats)
+  
 </div>
 
 <div align="center">
