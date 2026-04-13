@@ -27,7 +27,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="width:50px">
   <img src="https://streak-stats.demolab.com?user=caiofm25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
