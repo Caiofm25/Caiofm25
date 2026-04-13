@@ -4,8 +4,6 @@
 
 <p align="center">Desenvolvedor Full Stack. | Apaixonado por tecnologia</p>
 
-###
-
 <div align="center">
   <a href="www.linkedin.com/in/caiofm25" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -15,8 +13,6 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:55px; margin:0 5px" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:55px; margin:0 5px"  alt="css logo"  />
@@ -24,9 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="height:55px; margin:0 5px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:55px; margin:0 5px" alt="mysql logo"  />
 </div>
-
-##
-##
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=caiofm25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
