@@ -25,7 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="height:55px; margin:0 5px" alt="mysql logo"  />
 </div>
 
-<div align="center" style="margin-top: 60px">
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=caiofm25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
