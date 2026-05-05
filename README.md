@@ -29,9 +29,8 @@
 
 <div align="center" width="40%" >
   
-<img src="https://streak-stats.demolab.com?user=caiofm25&theme=holi-theme"
-  onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200?text=Stats+Indisponiveis';"/>
-  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Caiofm25&theme=holi-theme&hide_border=true&fire=EB5454&ring=EB5454" alt="GitHub Streak" /></a>
+
 </div>
 
 <div align="center">
