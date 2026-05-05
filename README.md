@@ -29,7 +29,8 @@
 
 <div align="center" width="40%" >
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=caiofm25&theme=holi-theme&hide_border=true&fire=EB5454&ring=EB5454&border=616161&hide_total_contributions=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=caiofm25&theme=holi-theme"
+  onerror="this.onerror=null;this.src='https://via.placeholder.com/500x200?text=Stats+Indisponiveis';"/>
   
 </div>
 
